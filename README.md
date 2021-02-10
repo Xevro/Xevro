@@ -13,7 +13,7 @@ const louis = {
       JavaScript: ["Vue", "React Native", "JQuery"],
       C#: [".NET Core"],
       CSS: ["SCSS", "SASS", "Bootstrap"],
-      PHP: ["Twig"]
+      PHP: ["Twig", "Blade"]
     },
     BackEnd: {
       Java: ["SE", "JDK 8-13"],

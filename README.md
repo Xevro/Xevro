@@ -17,7 +17,7 @@ const louis = {
     },
     BackEnd: {
       Java: ["SE", "JDK 8-13"],
-      JavaScript: ["Node.js", "Express.js"],
+      JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js"],
       C#: ["OO", "ADO.NET", "LINQ", "ASP.NET"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer"],
       Python: ["NumPy", "Pandas", "Jupyter Notebook"]

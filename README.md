@@ -16,13 +16,16 @@ const louis = {
       PHP: ["Twig", "Blade"]
     },
     BackEnd: {
-      Java: ["SE", "JDK 8-13"],
+      Java: ["SE", "JDK8"],
       JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js"],
       C#: ["OO", "ADO.NET", "LINQ", "ASP.NET"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer"],
       Python: ["NumPy", "Pandas", "Jupyter Notebook"]
     },
-    Container-env: ["Docker"],
+    Other: {
+      Container-environments: ["Docker"],
+      Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"]
+    },
     Misc: ["Arduino", "Bash"],
     Databases: {
       SQL: ["MySQL"]
@@ -34,7 +37,6 @@ const louis = {
 ```
 
 [![Xevro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xevro)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Get in touch

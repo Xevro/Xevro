@@ -36,6 +36,34 @@ const louis = {
 }
 ```
 
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Louis D'Hont"
+        self.role = "Software Engineer"
+        self.location = "Ghent, Belgium"
+        self.website = "https://www.xevro.be"
+        self.knowledge_base = [
+            "Software Enginnering",
+            "Machine Learning",
+            "Web development",
+            "Computer Vision",
+        ]
+        self.knowledge_base.insert(0, "Backend Engineering")
+
+    def say_hi(self):
+        print(
+            """Hello my friend, thanks for dropping by!
+
+This is {name}, I live in {location}. I am a passionate programmer, an electronics hobbyist and I'm a junior software & web developer. I am in my second year of my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I have wide interests, but most of them are {knowledge_base}. 
+
+
+me = SoftwareEngineer()
+me.say_hi()
+
 [![Xevro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xevro)](https://github.com/anuraghazra/github-readme-stats)
 
 

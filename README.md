@@ -37,6 +37,7 @@ const louis = {
 ```
 This design is made by <a href="https://github.com/ElianVanCutsem" target="_blank">Elian Van Cutsem</a>, checkout his awesome profile!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 

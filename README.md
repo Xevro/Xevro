@@ -11,30 +11,29 @@
 const louis = {
   Age: new Date().getFullYear() - 2000,
   Cleancoder: true,
-  Coding : {
-    FrontEnd: {
-      HTML: true,
-      JavaScript: ["Vue", "React Native", "JQuery"],
-      C#: [".NET Core"],
-      CSS: ["SCSS", "SASS", "Bootstrap"],
-      PHP: ["Twig", "Blade"]
-    },
-    BackEnd: {
-      Java: ["SE"],
+  MainProgrammingLanguages: ["Java", "PHP", "Javascript", "HTML", "CSS"],
+    languages:{
+      C#: [".NET CORE", "ADO.NET", "LINQ"],
       JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js"],
-      C#: ["OO", "ADO.NET", "LINQ", "ASP.NET"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer"],
-      Python: ["NumPy", "Pandas", "Jupyter Notebook"]
+      CSS: ["SCSS", "SASS", "Bootstrap"],
+      Python: ["Pandas", "Jupyter Notebook"],
     },
     Other: {
       Container-environments: ["Docker"],
-      Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"]
+      Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"],
+      Microcontrollers: ["Arduino"]
     },
-    Misc: ["Arduino", "Bash"],
     Databases: {
       SQL: ["MySQL"]
     }
   },
+  Experiences: [
+    {
+      company : "Xevro",
+      info : "Arduino simulator software"
+    }
+  ],
   JobInterests: ["Full Stack developer", "Software Engineer", "White hat hacker"],
   Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
 }

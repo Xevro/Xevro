@@ -1,5 +1,5 @@
 <h2>Hello, I'm Louis D'Hont</h2>
-<p>👋</span>&nbsp;Hello there! My name is Louis D'Hont. I'm a Student and software engineer from Belgium. At the moment I'm in my second year of Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I'm still learning lots of new technologies and skills everyday. On Github I try to show off some projects I worked on.</p>
+<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 20 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a junior software & web developer. At the moment I'm in my second year of my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I have been developing software since 2012, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software creations.
 
 <h3>More about me...</h3>
 
@@ -35,36 +35,7 @@ const louis = {
   Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
 }
 ```
-
-
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Louis D'Hont"
-        self.role = "Software Engineer"
-        self.location = "Ghent, Belgium"
-        self.website = "https://www.xevro.be"
-        self.knowledge_base = [
-            "Software Enginnering",
-            "Machine Learning",
-            "Web development",
-            "Computer Vision",
-        ]
-        self.knowledge_base.insert(0, "Backend Engineering")
-
-    def say_hi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
-
-This is {name}, I live in {location}. I am a passionate programmer, an electronics hobbyist and I'm a junior software & web developer. I am in my second year of my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I have wide interests, but most of them are {knowledge_base}. 
-
-
-me = SoftwareEngineer()
-me.say_hi()
-
-[![Xevro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xevro)](https://github.com/anuraghazra/github-readme-stats)
+This design is made by <a href="https://github.com/ElianVanCutsem" target="_blank">Elian Van Cutsem</a>, checkout his awesome profile!
 
 
 ## Get in touch

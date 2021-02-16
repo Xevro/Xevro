@@ -42,7 +42,8 @@ const louis = {
 
 This design is made by <a href="https://github.com/ElianVanCutsem" target="_blank">Elian Van Cutsem</a>, checkout his awesome profile!
 
-<h2>Hello, I'm Louis D'Hont</h2>
+<h2>Some stats</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch with me

@@ -37,7 +37,7 @@ const louis = {
 }
 ```
 
-This design is made by <a href="https://github.com/ElianVanCutsem" target="_blank">Elian Van Cutsem</a>, checkout his awesome profile!
+This design is inspired by <a href="https://github.com/ElianVanCutsem" target="_blank">Elian Van Cutsem</a>, checkout his awesome profile!
 
 <h2>Some stats</h2>
 

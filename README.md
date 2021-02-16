@@ -16,7 +16,7 @@ const louis = {
       PHP: ["Twig", "Blade"]
     },
     BackEnd: {
-      Java: ["SE", "JDK8"],
+      Java: ["SE"],
       JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js"],
       C#: ["OO", "ADO.NET", "LINQ", "ASP.NET"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer"],
@@ -31,13 +31,13 @@ const louis = {
       SQL: ["MySQL"]
     }
   },
-  JobInterests: ["Full Stack developer", "Webdeveloper", "Software Engineer"],
+  JobInterests: ["Full Stack developer", "Software Engineer", "White hat hacker"],
   Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
 }
 ```
 This design is made by <a href="https://github.com/ElianVanCutsem" target="_blank">Elian Van Cutsem</a>, checkout his awesome profile!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 

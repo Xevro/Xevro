@@ -12,10 +12,11 @@ const louis = {
   Age: new Date().getFullYear() - 2000,
   Cleancoder: true,
   MainProgrammingLanguages: ["Java", "PHP", "Javascript", "HTML", "CSS"],
-    languages:{
+    Languages: {
+      Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "ADO.NET", "LINQ"],
       JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js"],
-      PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer"],
+      PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
       CSS: ["SCSS", "SASS", "Bootstrap"],
       Python: ["Pandas", "Jupyter Notebook"],
     },
@@ -23,9 +24,6 @@ const louis = {
       Container-environments: ["Docker"],
       Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"],
       Microcontrollers: ["Arduino"]
-    },
-    Databases: {
-      SQL: ["MySQL"]
     }
   },
   Experiences: [

@@ -11,7 +11,7 @@
 const louis = {
   Age: new Date().getFullYear() - 2000,
   Cleancoder: true,
-  MainProgrammingLanguages: ["Java", "PHP", "Javascript", "HTML", "CSS"],
+  Main-programming-languages: ["Java", "PHP", "Javascript", "HTML", "CSS"],
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "ADO.NET", "LINQ"],

@@ -15,7 +15,7 @@ const louis = {
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "ADO.NET", "LINQ"],
-      JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js"],
+      JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js", "React Native"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
       CSS: ["SCSS", "SASS", "Bootstrap"],
       Python: ["Pandas", "Jupyter Notebook"],

@@ -28,8 +28,8 @@ const louis = {
   },
   Experiences: [
     {
-      company : "Xevro",
-      info : "Arduino simulator software"
+      company: "Xevro",
+      software-information: "Arduino simulator software"
     }
   ],
   JobInterests: ["Full Stack developer", "Software Engineer", "White hat hacker"],

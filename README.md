@@ -1,5 +1,5 @@
 <h2>Hello, I'm Louis D'Hont</h2>
-<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 20 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a junior software & web developer. At the moment I'm in my second year of my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I have been developing software since 2012, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software creations.
+<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 21 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a junior software & web developer. At the moment I'm in my second year of my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I have been developing software since 2012, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software creations.
 
 <h4>Social media</h4>
 

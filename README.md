@@ -15,15 +15,15 @@ const louis = {
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "ADO.NET", "LINQ"],
-      JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js", "React Native"],
+      JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js", "React Native", "VueJS"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
-      CSS: ["SCSS", "SASS", "Bootstrap"],
-      Python: ["Pandas", "Jupyter Notebook"],
+      CSS: ["SCSS", "SASS", "Bootstrap", "Tailwind"],
+      Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn"],
     },
     Other: {
       Container-environments: ["Docker"],
       Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"],
-      Microcontrollers: ["Arduino"]
+      Microcontrollers: ["Arduino", "Node-MU"]
     }
   },
   Experiences: [

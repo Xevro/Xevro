@@ -41,9 +41,9 @@ This design is inspired by <a href="https://github.com/ElianVanCutsem" target="_
 
 <h2>My most used languages</h2>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="340" src="http://xevro.be/assets/img/github/github-stats.png" alt="My most used languages">
+<!--<img width="340" src="http://xevro.be/assets/img/github/github-stats.png" alt="My most used languages">-->
 
 ## Get in touch with me
 

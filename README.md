@@ -18,7 +18,7 @@ const louis = {
       JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js", "React Native", "VueJS"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
       CSS: ["SCSS", "SASS", "Bootstrap", "Tailwind"],
-      Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn"],
+      Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn", "Tensorflow"],
     },
     Other: {
       Container-environments: ["Docker"],
@@ -32,7 +32,7 @@ const louis = {
       software-information: "Arduino simulator software"
     }
   ],
-  JobInterests: ["Full Stack developer", "Software Engineer", "White hat hacker"],
+  JobInterests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
   Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
 }
 ```

@@ -15,9 +15,9 @@ const louis = {
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "ADO.NET", "LINQ"],
-      JavaScript: ["Node.js", "Express.js", "socket.io", "Mustache.js", "React Native", "VueJS"],
+      JavaScript: ["NodeJS", "ExpressJS", "socket.io", "Angular", "Ionic 5", "React Native", "VueJS", "Parse"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
-      CSS: ["SCSS", "SASS", "Bootstrap", "Tailwind"],
+      CSS: ["SCSS", "SASS", "Bootstrap", "Tailwind", "Clarity"],
       Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn", "Tensorflow"],
     },
     Other: {
@@ -33,7 +33,7 @@ const louis = {
     }
   ],
   JobInterests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
-  Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
+  Tools: ["PhpStorm", "Submlime Text", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
 }
 ```
 

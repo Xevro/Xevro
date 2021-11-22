@@ -44,7 +44,7 @@ This design is inspired by <a href="https://github.com/ElianVanCutsem" target="_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<img width="340" src="http://xevro.be/assets/img/github/github-stats.png" alt="My most used languages">-->
-
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Xevro&theme=xcode)
 ## Get in touch with me
 
 - [Website](<https://www.xevro.be>)

@@ -11,15 +11,16 @@
 const louis = {
   Age: new Date().getFullYear() - 2000,
   Cleancoder: true,
-  Main-programming-languages: ["Java", "PHP", "Javascript", "HTML", "CSS"],
+  Main-programming-languages: ["Java", "PHP", "Javascript", "TypeScript", "HTML", "CSS"],
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "ADO.NET", "LINQ"],
-      JavaScript: ["NodeJS", "ExpressJS", "socket.io", "Angular", "Ionic 5", "React Native", "VueJS", "Parse"],
+      JavaScript: ["NodeJS", "ExpressJS", "socket.io", "TypeScript", "ParseJS"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
       CSS: ["SCSS", "SASS", "Bootstrap", "Tailwind", "Clarity"],
       Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn", "Tensorflow"],
     },
+    Frameworks: ["AngularJS", "Ionic", "React Native", "VueJS", "Svelte", "Laravel"],
     Other: {
       Container-environments: ["Docker"],
       Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"],
@@ -44,7 +45,6 @@ This design is inspired by <a href="https://github.com/ElianVanCutsem" target="_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevro&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<img width="340" src="http://xevro.be/assets/img/github/github-stats.png" alt="My most used languages">-->
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Xevro&theme=github)
 ## Get in touch with me
 
 - [Website](<https://www.xevro.be>)

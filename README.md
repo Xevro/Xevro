@@ -14,27 +14,30 @@ const louis = {
   Main-programming-languages: ["Java", "PHP", "Javascript", "TypeScript", "HTML", "CSS"],
     Languages: {
       Java: ["jSerialComm", "SE 15"],
-      C#: [".NET CORE", "ADO.NET", "LINQ"],
+      C#: [".NET CORE", "LINQ"],
       JavaScript: ["NodeJS", "ExpressJS", "socket.io", "TypeScript", "ParseJS"],
       PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
-      CSS: ["SCSS", "SASS", "Bootstrap", "Tailwind", "Clarity"],
+      CSS: ["SCSS", "Bootstrap", "Tailwind", "Clarity"],
       Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn", "Tensorflow"],
     },
     Frameworks: ["AngularJS", "Ionic", "React Native", "VueJS", "Svelte", "Laravel"],
     Other: {
       Container-environments: ["Docker"],
-      Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"],
-      Microcontrollers: ["Arduino", "Node-MU"]
+      Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"]
     }
   },
   Experiences: [
     {
       company: "Xevro",
-      software-information: "Arduino simulator software"
+      software-information: "Arduino simulator software",
+      gentrepreneur-awards: {
+        year: "2021",
+        status: "Finalist (4 selected schools)"
+      }
     }
   ],
   JobInterests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
-  Tools: ["PhpStorm", "Submlime Text", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "Netbeans"],
+  Tools: ["PhpStorm", "Visual Studio Code", "Git", "Docker", "Postman", "Netbeans"],
 }
 ```
 

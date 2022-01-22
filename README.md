@@ -22,21 +22,21 @@ const louis = {
     },
     Frameworks: ["AngularJS", "Ionic", "React Native", "VueJS", "Svelte", "Laravel"],
     Other: {
-      Container-environments: ["Docker"],
-      Operating-systems: ["Linux", "macOS", "Windows", "Kali Linux"]
+      Container_environments: ["Docker"],
+      Operating_systems: ["Linux", "macOS", "Windows", "Kali Linux"]
     }
   },
   Experiences: [
     {
-      company: "Xevro",
-      software-information: "Arduino simulator software",
-      gentrepreneur-awards: {
-        year: "2021",
-        status: "Finalist (4 selected schools)"
+      Company: "Xevro",
+      Software_information: "Arduino simulator software",
+      Gentrepreneur_awards: {
+        Year: "2021",
+        Status: "Finalist (4 selected schools)"
       }
     }
   ],
-  JobInterests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
+  Job_interests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
   Tools: ["PhpStorm", "Visual Studio Code", "Git", "Docker", "Postman", "Netbeans"],
 }
 ```

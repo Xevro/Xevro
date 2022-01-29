@@ -26,16 +26,14 @@ const louis = {
       Operating_systems: ["Linux", "macOS", "Windows", "Kali Linux"]
     }
   },
-  Experiences: [
-    {
-      Company: "Xevro",
-      Software_information: "Arduino simulator software",
-      Gentrepreneur_awards: {
-        Year: "2021",
-        Status: "Finalist (4 selected schools)"
-      }
+  Experiences: {
+    Company: "Xevro",
+    Software_information: "Arduino simulator software",
+    Gentrepreneur_awards: {
+      Year: "2021",
+      Status: "Finalist (4 selected schools)"
     }
-  ],
+  },
   Job_interests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
   Tools: ["PhpStorm", "Visual Studio Code", "Git", "Docker", "Postman", "Netbeans"],
 }

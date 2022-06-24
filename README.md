@@ -1,11 +1,14 @@
 <h2>Hello, I'm Louis D'Hont</h2>
-<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 22 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a junior software & web developer. At the moment I'm in my second year of my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I have been developing software since 2012, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software creations.
+
+<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 22 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a junior software Engineer. I finished my Bachelors degree in Computer Science @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I find it fantastic to help improve projects and to further develop my technology skills. 
+
+I am currently working as a R&D engineer at <a href="https://trensition.eu" target="_blank">Trensition</a> where I do research into NLP and write software. I have been developing software since is was 12, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software programs.
 
 <h4>Social media</h4>
 
 [![Linkedin: dhontlouis](https://img.shields.io/badge/-LouisDHont-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhontlouis/)](https://www.linkedin.com/in/dhontlouis/)
 
-<h3>More about me...</h3>
+<h3>More about my skills...</h3>
 
 ```javascript
 const louis = {
@@ -15,15 +18,15 @@ const louis = {
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "LINQ"],
-      JavaScript: ["NodeJS", "ExpressJS", "socket.io", "TypeScript", "ParseJS"],
-      PHP: ["Laravel", "ParseServer", "RNCryptor", "Composer", "Blade", "Twig"],
+      JavaScript: ["NodeJS", "ExpressJS", "TypeScript", "ParseJS"],
+      PHP: ["Laravel", "Blade", "Twig"],
       CSS: ["SCSS", "Bootstrap", "Tailwind", "Clarity"],
-      Python: ["Pandas", "Jupyter Notebook", "Numpy", "scikit-learn", "Tensorflow"],
+      Python: ["Pandas", "Jupyter Notebook", "Numpy", "Tensorflow"],
     },
-    Frameworks: ["AngularJS", "Ionic", "React Native", "VueJS", "Svelte", "Laravel"],
+    Frameworks: ["Angular", "Ionic", "React Native", "Vue", "Svelte", "Laravel"],
     Other: {
       Container_environments: ["Docker"],
-      Operating_systems: ["Linux", "macOS", "Windows", "Kali Linux"]
+      Favorite_operating_systems: "macOS"
     }
   },
   Experiences: {
@@ -34,8 +37,8 @@ const louis = {
       Status: "Finalist (4 selected schools)"
     }
   },
-  Job_interests: ["Full Stack developer", "ML Engineer", "Software Engineer"],
-  Tools: ["PhpStorm", "Visual Studio Code", "Git", "Docker", "Postman", "Netbeans"],
+  Job_interests: ["Full Stack developer", "ML Engineer", "Software Engineer", "R&D Engineer"],
+  Tools: ["PyCharm", "Visual Studio Code", "Docker", "Netbeans"],
 }
 ```
 

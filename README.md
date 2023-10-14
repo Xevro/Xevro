@@ -14,7 +14,7 @@ I am currently working as a R&D engineer at <a href="https://trensition.eu" targ
 const louis = {
   Age: new Date().getFullYear() - 2000,
   Cleancoder: true,
-  Main-programming-languages: ["Java", "PHP", "Javascript", "TypeScript", "HTML", "CSS"],
+  Main-programming-languages: ["python", "PHP", "Javascript", "TypeScript"],
     Languages: {
       Java: ["jSerialComm", "SE 15"],
       C#: [".NET CORE", "LINQ"],

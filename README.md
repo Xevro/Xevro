@@ -1,8 +1,8 @@
 <h2>Hello, I'm Louis D'Hont</h2>
 
-<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 24 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a junior software Engineer. I finished my Bachelors degree in Computer Science @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I find it fantastic to help improve projects and to further develop my technology skills. 
+<p>👋</span>&nbsp;Hello! My name is Louis D'Hont. I am 25 years old and I live in Belgium. I am a passionate programmer, an electronics hobbyist and I'm a software Engineer. I finished my Bachelors degree in Computer Science @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I find it fantastic to help improve projects and to further develop my technology skills.
 
-I am currently working as a software engineer at <a href="https://trensition.eu" target="_blank">Trensition</a> where I do research into NLP and write software. I have been developing software since is was 12, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software programs.
+I am currently working as a software engineer at <a href="https://trensition.eu" target="_blank">Trensition</a> where I work on various data related projects and help shape the strategic intelligence platform. I have been developing software since is was 12, I learned myself developing software with an understanding of the basic principles of programming at low and high-end level coding. Checkout my company <a href="https://www.xevro.be" target="_blank">Xevro</a> where you can find my software programs.
 
 <h4>Social media</h4>
 
@@ -37,7 +37,7 @@ const louis = {
       Status: "Finalist (4 selected schools)"
     }
   },
-  Job_interests: ["Full Stack developer", "ML Engineer", "Software Engineer", "R&D Engineer"],
+  Job_interests: ["Full Stack developer", "Data Engineer", "Software Engineer", "R&D Engineer"],
   Tools: ["PyCharm", "Visual Studio Code", "Docker", "Netbeans"],
 }
 ```
